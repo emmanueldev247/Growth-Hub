@@ -3,7 +3,3 @@
 * Programiz
 * thenewboston
 * Sololearn
-
-1. hello world program
-2. Age checjer program
-3. Grader program
